@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autor: GPvalidator - SMK
+#Autor: LowFeeValidation
 echo " This is a script to install and configure a validator on Celestia-appd."
 
 export PATH=$PATH:/usr/local/go/bin
