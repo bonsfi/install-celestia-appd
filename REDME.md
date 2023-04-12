@@ -22,7 +22,7 @@ Assign execute permissions to the "celestia.sh" script by running the following 
 Now, you can run the "install-celestia-appd.sh" script by typing the following command:
 
 
-`./install-celestia-appd`
+`./install-celestia-appd.sh`
 
 --------------------------
 launch script
