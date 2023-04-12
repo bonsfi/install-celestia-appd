@@ -17,7 +17,7 @@ Navigate to the "install-celestia-appd" directory by running the following comma
 
 Assign execute permissions to the "celestia.sh" script by running the following command:
 
-`chmod a+x install-celestia-appd`
+`chmod a+x install-celestia-appd.sh`
 
 Now, you can run the "install-celestia-appd.sh" script by typing the following command:
 
